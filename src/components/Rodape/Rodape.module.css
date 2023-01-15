@@ -1,7 +1,7 @@
 .rodape {
     display: flex;
     justify-content: center;
-    background-color: var(--cor-de-fundo);
+    background-color: var(--preto);
 }
 
 .rodape h2 {
@@ -10,7 +10,7 @@
     color: var(--branco);
 }
 
-
+/* 
 .rodape {
     width: 100%;
     line-height: 3.5rem;
@@ -24,4 +24,4 @@
     font-size: 18px;
     font-weight: 400;
     text-align: center;
-} 
+}  */
